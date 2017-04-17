@@ -1,0 +1,7 @@
+<meta>
+	<info type="script" version="1.0.0"> </info>
+	<file src="client.lua"> </file>
+	<script src="settings.lua></script>
+	<script src="mEditScript.lua></script>
+	<export function="createSafeZone" type="server" http="false />
+</meta>
